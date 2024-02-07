@@ -6,3 +6,6 @@ In this deep-learning project, I use the tensorflow, numpy, notebook, & matplotl
 Feel free to check it out!
 
 -Ethan
+
+![Tomato_Disease_Prediction](https://github.com/eth8n/Veg_Classification/blob/main/trainingData/Tomato1_Results.png)
+
